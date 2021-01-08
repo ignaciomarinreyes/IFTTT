@@ -3,6 +3,6 @@ public class Main {
         Person person = new Person();
         person.start();
         new PulsometerFrame(person);
-        new MainFrame();
+        new Timer();
     }
 }
